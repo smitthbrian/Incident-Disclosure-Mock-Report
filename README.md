@@ -1,5 +1,6 @@
 Project title: Incident Disclosure Report to Mock Board of Directors
-Course: IT Auditing and Risk Management
+
+Course: CIS3740: IT Auditing and Risk Management -- Walker College of Business
 
 This repository contains a simulation of an Incident-Disclosure-Mock-Report prepared for the Board of Directors of Flair Airlines regarding a cybersecurity incident involving unauthorized access to the company's web server due to AndroxGh0st malware. The report highlights relevant federal regulations such as HIPAA, GLBA, SOX, and GDPR, assessing potential liabilities to customers, shareholders, and the government.
 
